@@ -12,6 +12,7 @@ Este flujo automatiza el proceso de revisión y aprobación de solicitudes de cr
 
 3. **Evaluar condición**  
    Según la respuesta del aprobador, se continúa o se detiene el proceso.
+   
 
 ## 🖼 Imagen del Flujo
 
