@@ -13,7 +13,6 @@ Este flujo automatiza el proceso de revisión y aprobación de solicitudes de cr
 3. **Evaluar condición**  
    Según la respuesta del aprobador, se continúa o se detiene el proceso.
    
-
 ## 🖼 Imagen del Flujo
 
 ![resumen del flujo solicitud de alias](https://github.com/user-attachments/assets/e46ed5d4-f7a9-4d36-9eb6-12554e92887a)
